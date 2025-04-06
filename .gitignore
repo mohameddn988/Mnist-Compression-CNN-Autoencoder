@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Environment variables / secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and data
+*.log
+*.csv
+*.h5
+*.keras
+*.pth
+*.pkl
+*.npz
+
+# TensorBoard and saved models
+logs/
+checkpoints/
+models/
